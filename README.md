@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<img align="left" alt="bulma" width="25px" src="https://github.dev/Jonathan-HETEAU/Jonathan-HETEAU/blob/b432609ec1105a5f199ceddee8d59beaa22fe4d3/img/bulma-plain.svg" style="padding-right:11px;" /> ]
+[<img align="left" alt="bulma" width="25px" src="img/bulma-plain.svg" style="padding-right:11px;" /> ]
 
 <!--
 **Jonathan-HETEAU/Jonathan-HETEAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
