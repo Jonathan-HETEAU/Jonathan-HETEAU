@@ -1,5 +1,14 @@
-### Hi there 👋
-[<img align="left" alt="bulma" width="25px" src="img/bulma-plain.svg" style="padding-right:11px;" /> ]
+### Bienvenue sur mon Github 
+
+### Mes technos ### 
+[<img align="left" alt="Html5" width="25px" src="img/html5.svg" style="padding-right:11px;" />]
+[<img align="left" alt="Css3" width="25px" src="img/css3.svg" style="padding-right:11px;" />]
+[<img align="left" alt="bulma" width="25px" src="img/bulma.svg" style="padding-right:11px;" />]
+[<img align="left" alt="TS" width="25px" src="img/ts.svg" style="padding-right:11px;" />]
+[<img align="left" alt="elm" width="25px" src="img/elm.svg" style="padding-right:11px;" />]
+[<img align="left" alt="Java" width="25px" src="img/java.svg" style="padding-right:11px;" />]
+[<img align="left" alt="fsharp" width="25px" src="img/fsharp.svg" style="padding-right:11px;" />]
+[<img align="left" alt="node" width="25px" src="img/nodejs.svg" style="padding-right:11px;" />]
 
 <!--
 **Jonathan-HETEAU/Jonathan-HETEAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
