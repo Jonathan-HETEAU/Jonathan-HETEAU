@@ -1,5 +1,7 @@
 ### Bienvenue sur mon Github 
 
+---
+
 ### Mes technos ### 
 <a  href="https://wikipedia.org/wiki/HTML5" ><img align="left" alt="Html5" width="25px" src="img/html5.svg" style="padding-right:11px;" /></a>
 <a  href="https://wikipedia.org/wiki/CSS3" ><img align="left" alt="Css3" width="25px" src="img/css3.svg" style="padding-right:11px;" /></a>
@@ -9,6 +11,8 @@
 <a  href="https://www.java.com" ><img align="left" alt="Java" width="25px" src="img/java.svg" style="padding-right:11px;" /></a>
 <a  href="https://fsharp.org/" ><img align="left" alt="fsharp" width="25px" src="img/fsharp.svg" style="padding-right:11px;" /></a>
 <a  href="https://nodejs.org" ><img align="left" alt="node" width="25px" src="img/nodejs.svg" style="padding-right:11px;" /></a>
+
+---
 
 ### Mes liens ###
 
